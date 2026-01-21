@@ -1,5 +1,5 @@
 ---
-name: Stephanie Akakabota
+name: Steph Akakabota
 role: Teaching Assistant
 email: sakakabota@
 photo: assets/staff_pics/steph.jpg
