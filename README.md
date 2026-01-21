@@ -1,3 +1,3 @@
-# Course website for EECS C106/206B for Spring 2024
+# Course website for MEC ENG 103 for Spring 2026
 
-Website: https://ucb-ee106.github.io/106b-sp24site/
+Website: https://ucb-me103.github.io/me103-sp26site/
