@@ -60,3 +60,34 @@
     }
   }
 }
+
+.instructor-card {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: $sp-4;
+}
+
+.instructor-photo {
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  margin-right: $sp-4;
+  flex-shrink: 0;
+}
+
+.instructor-info {
+  display: flex;
+  flex-direction: column;
+
+  .name {
+    margin: 0 0 $sp-1 0;
+    font-weight: bold;
+  }
+
+  .email,
+  .role,
+  .pronouns {
+    margin: 0 0 $sp-1 0;
+  }
+}

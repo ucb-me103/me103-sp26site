@@ -16,9 +16,10 @@ description: >-
        class="instructor-photo"/>
 
   <div class="instructor-info">
-    <p class="name">George Anwar</p>
+    <p class="name"><strong>George Anwar</strong></p>
+    <p class="email">ganwar@</p>
     <p class="role">Professor</p>
-    <p class="email">ganwar@berkeley.edu</p>
+    <p class="pronouns">he/him</p>
   </div>
 </div>
 
