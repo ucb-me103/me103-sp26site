@@ -35,4 +35,3 @@ Students who successfully complete ME 103 should be able to:
 - Communicate experimental methods, results, and conclusions clearly through technical reports, figures, and oral presentations.
 
 Please see the course homepage for a detailed weekly breakdown of topics and laboratory activities.
----

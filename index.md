@@ -8,8 +8,22 @@ description: >-
 <!-- <div class="parallax-window" data-parallax="scroll" data-image-src="/assets/background.png" data-speed="0.1">/div> -->
 # ME 103 | Experimentation and Measurements
 {: .mb-2 }
-Spring 2024 | Instructor: Professor George Anwar
-{: .mb-0 .fs-6 .text-grey-dk-200 }
+## Spring 2026
+
+<div class="instructor-card">
+  <img src="/assets/staff_pics/george_anwar.jpg"
+       alt="Professor George Anwar"
+       class="instructor-photo"/>
+
+  <div class="instructor-info">
+    <p class="name">George Anwar</p>
+    <p class="role">Professor</p>
+    <p class="email">ganwar@berkeley.edu</p>
+  </div>
+</div>
+
+<!-- Instructor: Professor George Anwar
+{: .mb-0 .fs-6 .text-grey-dk-200 } -->
 
 <hr>
 
