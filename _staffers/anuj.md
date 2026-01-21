@@ -1,7 +1,7 @@
 ---
 name: Anuj Kakde
 role: Reader
-email: 
+email: anujndk@
 photo: assets/staff_pics/anuj.jpg
 ---
 
