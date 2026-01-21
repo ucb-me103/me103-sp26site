@@ -11,7 +11,7 @@ description: >-
 ## Spring 2026
 
 <div class="instructor-card">
-  <img src="/assets/staff_pics/george_anwar.jpg"
+  <img src="{{ site.baseurl }}assets/staff_pics/george_anwar.jpg"
        alt="Professor George Anwar"
        class="instructor-photo"/>
 
