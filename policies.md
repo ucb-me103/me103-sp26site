@@ -26,10 +26,10 @@ This course will be taught in a seminar style, with lectures, 7 homeworks, 6 lab
 Each week, there are 3 hours of lecture, 1 hour of discussion, and 3 hours of organized lab sections. All of these and office hours will be hosted in-person. You are expected to work on projects during your own time. Lecture and discussion sections will be recorded and posted.
 
 ## Lecture
-Lectures will be on Mondays and Wednesdays 2-3pm in Hearst Field Annex A1. Recordings of all lectures will be posted on bCourses and you can access them by going to “Modules” in bCourses, and then clicking on the page associated with the specific lecture that you want to view. They will also be accessible via the “Media Gallery” in bCourses. 
+Lectures will be on **Mondays and Wednesdays 2-3pm in Hearst Field Annex A1**. Recordings of all lectures will be posted on bCourses and you can access them by going to “Modules” in bCourses, and then clicking on the page associated with the specific lecture that you want to view. They will also be accessible via the “Media Gallery” in bCourses. 
 
 ## Discussions
-There will be one offered discussion section on Friday from 2:00pm to 3:00pm in Hearst Field Annex A1. It will have a review of important topics and go over practice problems related to the material to supplement lecture content. Attendance is encouraged but optional for discussion. The GSI giving the discussion may vary from week to week according to the subject matter. The discussions each week will be recorded and posted on bCourses.
+There will be one offered discussion section on **Friday from 2:00pm to 3:00pm in Hearst Field Annex A1**. It will have a review of important topics and go over practice problems related to the material to supplement lecture content. Attendance is encouraged but optional for discussion. The TA giving the discussion may vary from week to week according to the subject matter. The discussions each week will be recorded and posted on bCourses.
 
 ## Homeworks
 
@@ -143,7 +143,7 @@ To provide some built-in flexibility, **your lowest homework score** will be dro
 
 Because labs and project milestones build directly toward later work and feedback, it is especially important to submit on time. We encourage you not to make the perfect the enemy of the good—submit what you have by the deadline so that you can continue to make steady progress in the course. We will be lenient with grading for lab reports. 
 
-If you are struggling with the material or feeling overwhelmed, please communicate early with Larry (larryhui7@), either in person or by email. While deadlines cannot be extended, we are happy to help you find strategies and resources to stay on track and succeed in the course.
+If you are struggling with the material or feeling overwhelmed, please communicate early with Larry (larryhui7@berkeley.edu), either in person or by email. While deadlines cannot be extended, we are happy to help you find strategies and resources to stay on track and succeed in the course.
 
 # Miscellaneous Information
 
