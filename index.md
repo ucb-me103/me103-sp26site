@@ -3,12 +3,12 @@ layout: home
 title: Home
 nav_order: 0
 description: >-
-    Course website for EECS 106/206B Spring 2024
+    Course website for MEC ENG 103 Spring 2026
 ---
 <!-- <div class="parallax-window" data-parallax="scroll" data-image-src="/assets/background.png" data-speed="0.1">/div> -->
-# EECS C106B/206B | Robotic Manipulation and Interaction
+# ME 103 | Experimentation and Measurements
 {: .mb-2 }
-Spring 2024 | Instructor: Professor Shankar Sastry
+Spring 2024 | Instructor: Professor George Anwar
 {: .mb-0 .fs-6 .text-grey-dk-200 }
 
 <hr>
