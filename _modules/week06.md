@@ -1,12 +1,12 @@
 ---
-title: Week 6 - Steering with Sinusoids and Grasping
+title: Week 6 - FFT, Bode Plots, and Data Presentation
 days:
-  - topic: Steering with Sinusoids
-    date: 2023-02-20
-    description: ([Slides](https://drive.google.com/file/d/1rgnWBZpCinxYVQVteNaSCeG98yRuLNkK/view?usp=drive_link)) (Boardwork) (Video) 
-  - topic: Finish Steering, Grasping Part I
-    date: 2023-02-22
-    description: (Slides) (Boardwork) ([Video](https://youtu.be/1ZjUC1QOTWI))
+  - topic: FFT and applications continued + Bode Plots
+    date: 2026-02-23
+    description:
+  - topic: Written and graphical presentation of results. Fitting lines and curves to data.
+    date: 2026-02-25
+    description:
 ---
 
 - Homework 3 due 2/26

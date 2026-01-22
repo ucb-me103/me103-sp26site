@@ -1,12 +1,12 @@
 ---
-title: Week 9 - SLAM
+title: Week 9 - Midterm 1
 days:
-  - topic: SLAM Part I
-    date: 2023-03-12
-    description: (Slides) (Boardwork) (Video) 
-  - topic: SLAM Part II
-    date: 2023-03-14
-    description: (Slides) (Boardwork) (Video)
+  - topic: MIDTERM 1 REVIEW
+    date: 2026-03-16
+    description:
+  - topic: MIDTERM 1: LAB BASED MIDTERM
+    date: 2026-03-18
+    description:
 ---
 
 - Discussion 9: SLAM ([Worksheet](https://ucb-ee106.github.io/106b-sp24site/assets/disc/disc9_SLAM.pdf)) ([Boardwork]((https://ucb-ee106.github.io/106b-sp24site/assets/disc/disc9_boardwork.pdf))) ([Video](https://youtu.be/FgmSuPReH9I)) ([Solutions](https://ucb-ee106.github.io/106b-sp24site/assets/disc/disc9_sols.pdf))

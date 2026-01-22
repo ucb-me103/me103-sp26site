@@ -1,12 +1,12 @@
 ---
-title: Week 15 - The Future Is Now
+title: Week 15 - Image-based Measurements
 days:
-  - topic: Prof. Koushil Sreenath Guest Lecture
-    date: 2023-04-23
-    description: (Slides) (Boardwork) (Video)
-  - topic: UAV Group
-    date: 2023-04-25
-    description: (Slides) (Boardwork) (Video)
+  - topic: Image-based measurements: image processing methods + k-means
+    date: 2026-04-27
+    description:
+  - topic: Image-based measurements: continued.
+    date: 2026-04-29
+    description:
 ---
 
 - Continue final projects

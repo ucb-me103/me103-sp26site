@@ -1,13 +1,13 @@
 ---
-title: Week 14 - Soft Robots & Intro to Legged Robotics
+title: Week 14 - Midterm 2
 
 days:
-  - topic: Soft Robotics
-    date: 2023-04-16
-    description: (Slides) (Boardwork) (Video)
-  - topic: Prof. Koushil Sreenath Guest Lecture
-    date: 2023-04-18
-    description: (Slides) (Boardwork) (Video)
+  - topic: MIDTERM 2 REVIEW
+    date: 2026-04-20
+    description:
+  - topic: MIDTERM 2: HW/CONTENT BASED (7-9 PM)
+    date: 2026-04-22
+    description:
 ---
 - Homework 5: Vision and State Estimation ([PDF](https://ucb-ee106.github.io/106b-sp24site/assets/hw/hw5.pdf)) due 4/16
 - Project 5 ([PDF](https://ucb-ee106.github.io/106b-sp24site/assets/proj/proj5.pdf)) due 4/18 with 2 free slip days

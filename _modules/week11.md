@@ -1,11 +1,11 @@
 ---
-title: Week 11 - Spring Break
+title: Week 11 - Sensors 3 and 4
 days:
-  - topic: Spring Break (No Class)
-    date: 2020-03-26
-    description: Have fun!
-  - topic: Spring Break (No Class)
-    date: 2020-03-28
-    description: Have fun!
+  - topic: Sensors 3: temperature
+    date: 2026-03-30
+    description:
+  - topic: Sensors 4: pressure
+    date: 2026-04-01
+    description:
 ---
 

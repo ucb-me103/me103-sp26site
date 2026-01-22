@@ -1,12 +1,12 @@
 ---
-title: Week 8 - Vision and Grasping
+title: Week 8 - Sensors 1 and 2
 days:
-  - topic: Michael Psenka Guest Lecture (3D Vision)
-    date: 2023-03-05
-    description: (Slides) (Boardwork) (Video) 
-  - topic: Ken Goldberg Guest Lecture (Modern Grasping)
-    date: 2023-03-07
-    description: (Slides) (Boardwork) (Video)
+  - topic: Sensors 1: displacement, velocity, force and strain (encoders, LVDTs, strain gages, voice coil)
+    date: 2026-03-09
+    description:
+  - topic: Sensors 2: inertial (accelerometer, etc)
+    date: 2026-03-11
+    description:
 ---
 
 - Discussion 8: Kalman Filtering (Worksheet) (Boardwork) (Video) (Solutions)

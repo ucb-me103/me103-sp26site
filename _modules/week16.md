@@ -1,8 +1,8 @@
 ---
 title: Week 16
 days:
-  - topic: Final Project Showcase
-    date: 2023-05-03
+  - topic: Final Project Presentations
+    date: 2026-05-04
     description: 
 ---
 

@@ -1,12 +1,12 @@
 ---
-title: Week 13 - AI
+title: Week 13 - Advanced Statistical Analysis
 days:
-  - topic: Allen Yang Guest Lecture
-    date: 2023-04-9
-    description: (Slides) (Boardwork) (Video)
-  - topic: AI Racing Tech Guest Lecture 
-    date: 2023-04-11
-    description: (Slides) (Boardwork) (Video)
+  - topic: Advanced Statistical Analysis: ANOVA + lin. reg
+    date: 2026-04-13
+    description:
+  - topic: Bootstrap, PCA, Clustering
+    date: 2026-04-15
+    description:
 ---
 
 - Allen Yang's Guest Lecture on Tuesday is Titled: Bridging Artificial General Intelligence and Artificial General Autonomy via High-Precision Digital Twin Modeling and New Human Interaction Modalities

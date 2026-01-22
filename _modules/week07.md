@@ -1,12 +1,12 @@
 ---
-title: Week 7 - Grasping
+title: Week 7 - DC Motor Lab and Presentations
 days:
-  - topic: Grasping Part II
-    date: 2023-02-27
-    description: (Slides) (Boardwork) (Video) 
-  - topic: Grasping Part III
-    date: 2023-02-29
-    description:  (Slides) (Boardwork) (Video)
+  - topic: DC Motor Lab Intro
+    date: 2026-03-02
+    description:
+  - topic: Oral presentation of experimental results.
+    date: 2026-03-04
+    description:
 ---
 
 - Discussion 7: Probability and Computer Vision ([Worksheet](https://ucb-ee106.github.io/106b-sp24site/assets/disc/disc7_prob_cv.pdf)) ([Boardwork](https://ucb-ee106.github.io/106b-sp24site/assets/disc/disc7_boardwork.pdf)) ([Video](https://youtu.be/-gYH2PkU15I)) ([Solutions](https://ucb-ee106.github.io/106b-sp24site/assets/disc/disc7_sols.pdf))

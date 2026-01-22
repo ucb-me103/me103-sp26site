@@ -1,12 +1,12 @@
 ---
-title: Week 12 - CBFs and RL
+title: Week 12 - Sensors 5 and 6
 days:
-  - topic: Jason Choi Guest Lecture (CBFs)
-    date: 2023-04-02
-    description: (Slides) (Boardwork) (Video)
-  - topic: Reinforcement Learning
-    date: 2023-04-04
-    description: (Slides) (Boardwork) (Video)
+  - topic: Sensors 5: flow
+    date: 2026-04-06
+    description:
+  - topic: Sensors 6: other (chemical, humidity, electro-magnetic, etc)
+    date: 2026-04-08
+    description:
 ---
 
 - Homework 5: Vision and State Estimation ([PDF](https://ucb-ee106.github.io/106b-sp24site/assets/hw/hw5.pdf))
