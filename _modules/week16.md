@@ -3,7 +3,7 @@ title: Week 16
 days:
   - topic: Final Project Presentations
     date: 2026-05-04
-    description: 
+    description: We will release sign 
 ---
 
 - RRR Week: No Lectures
