@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: ME103 SP26
+title: ME103
 description: Course site for MEC ENG 103
 author: Larry Hui
 email: larryhui7@berkeley.edu
