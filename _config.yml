@@ -35,7 +35,7 @@ nav_links:
       - "https://bcourses.berkeley.edu/courses/1552981"
     Textbook:
       - "https://search.library.berkeley.edu/discovery/fulldisplay?vid=01UCS_BER:UCB&tab=Default_UCLibrarySearch&docid=alma991013052839706532&lang=en&context=L&adaptor=Local%20Search%20Engine&query=isbn,contains,9780201847659,AND&mode=advanced&offset=0&virtualBrowse=true"
-    ME100 Review:
+    ME100 Notes:
       - "https://ucb-me103.github.io/me103-sp26site/assets/notes/ME_100_Course_Notes.pdf"
 # Collections for website data
 collections:
