@@ -5,7 +5,7 @@ days:
   - topic: MIDTERM 2 REVIEW
     date: 2026-04-20
     description:
-  - topic: MIDTERM 2: HW/CONTENT BASED (7-9 PM)
+  - topic: MIDTERM 2 - HW/CONTENT BASED (7-9 PM)
     date: 2026-04-22
     description:
 ---

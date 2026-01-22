@@ -4,7 +4,7 @@ days:
   - topic: MIDTERM 1 REVIEW
     date: 2026-03-16
     description:
-  - topic: MIDTERM 1: LAB BASED MIDTERM
+  - topic: MIDTERM 1 - LAB BASED MIDTERM
     date: 2026-03-18
     description:
 ---

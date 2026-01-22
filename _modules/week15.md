@@ -1,10 +1,10 @@
 ---
 title: Week 15 - Image-based Measurements
 days:
-  - topic: Image-based measurements: image processing methods + k-means
+  - topic: Image-based measurements - image processing methods + k-means
     date: 2026-04-27
     description:
-  - topic: Image-based measurements: continued.
+  - topic: Image-based measurements - continued.
     date: 2026-04-29
     description:
 ---

@@ -1,7 +1,7 @@
 ---
 title: Week 13 - Advanced Statistical Analysis
 days:
-  - topic: Advanced Statistical Analysis: ANOVA + lin. reg
+  - topic: Advanced Statistical Analysis - ANOVA + lin. reg
     date: 2026-04-13
     description:
   - topic: Bootstrap, PCA, Clustering

@@ -1,10 +1,10 @@
 ---
 title: Week 12 - Sensors 5 and 6
 days:
-  - topic: Sensors 5: flow
+  - topic: Sensors 5 - flow
     date: 2026-04-06
     description:
-  - topic: Sensors 6: other (chemical, humidity, electro-magnetic, etc)
+  - topic: Sensors 6 - other (chemical, humidity, electro-magnetic, etc)
     date: 2026-04-08
     description:
 ---
