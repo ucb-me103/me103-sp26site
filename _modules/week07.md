@@ -1,7 +1,7 @@
 ---
 title: Week 7 - Presentations and Sensors
 days:
-  - topic: Oral Communication
+  - topic: Oral Communication of Results
     date: 2026-03-02
     description: (Slides) (Boardwork)  Oral presentation of experimental results  Readings - Beckwith Ch. 3.13
   - topic: Sensors I

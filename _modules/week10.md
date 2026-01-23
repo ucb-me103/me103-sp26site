@@ -1,12 +1,12 @@
 ---
 title: Week 10 - Spring Break
 days:
-  - topic: No Lecture - Spring Break
+  - topic: 
     date: 2026-03-23
-    description:
-  - topic: No lecture - Spring break
+    description: No Lecture - Spring Break
+  - topic: 
     date: 2026-03-25
-    description:
+    description: No lecture - Spring break
 ---
 
 <a id="Week11"></a>
