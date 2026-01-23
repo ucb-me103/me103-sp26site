@@ -9,7 +9,7 @@ days:
     description: (Slides) (Boardwork) <br> Image compression, Feature Extraction, Classification (ML) <br> Reading - GW Ch. 8, 11, 12, Hastie ESL
 ---
 
-- [Homework 6: Image Based Measurements](https://ucb-me103.github.io/me103-sp26site/) - due 4/27
+- [Homework 6: Image Based Measurements]() - due 4/27
 - Measurement project: additional data gathering and analysis in preperation for Milestone E and F. 
 
 <a id="Week16"></a>
