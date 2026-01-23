@@ -1,17 +1,15 @@
 ---
 title: Week 1 - Introduction to ME103
 days:
-  - topic: No lecture
+  - topic: 
     date: 2026-01-19
-    description: 
-  - topic: Principles of Measurements, Variability, and Types of Errors
+    description: No lecture
+  - topic: Introduction to Measurements
     date: 2026-01-21
-    description:
+    description: (Slides) (Boardwork)  Principles of Measurements, Variability, and Types of Errors  Readings - Beckwith 1, 2, 3.1-3.3
 ---
-- Discussion 1: Dynamical Systems & Linear Control ([Worksheet](https://ucb-ee106.github.io/106b-sp24site/assets/disc/disc1_systems.pdf)) ([Boardwork](https://ucb-ee106.github.io/106b-sp24site/assets/disc/disc1_boardwork.pdf)) ([Video](https://youtu.be/4u3AN6rC1v4)) ([Solutions](https://ucb-ee106.github.io/106b-sp24site/assets/disc/disc1_sols.pdf))
-- [Homework 1](https://ucb-ee106.github.io/106b-sp24site/assets/hw/hw1.pdf): Dynamical Systems (due 1/24)
-- [Optional Project 0](assets/proj/proj0.pdf) (ROS Review)
-- ["Reading a scientific or engineering paper"](https://youtu.be/0nwFSCAacWk), presented by Professor Terry Johnson
-- [“How to read all of research (a lit review)”](https://youtu.be/y9rAzM30EDw) - presented by David McPherson
+- Discussion 1: Dynamical Systems & Linear Control ([Slides]()) ([Video]()) ([Solutions]())
+- [Homework 0](https://ucb-ee106.github.io/106b-sp24site/assets/hw/ME103_HW_0_BLANK.pdf): ME100 Electronics Review - due 1/26
+- [“A quick introduction to LaTeX”](https://www.youtube.com/watch?v=dkojsBJ-S-g) - presented by Jeremy Howard
 
 <a id="Week2"></a>

@@ -3,10 +3,10 @@ title: Week 12 - Sensors 6 and Advanced Statistics
 days:
   - topic: Sensors 6 - Other (Chemical, Humidity, EM, etc)
     date: 2026-04-06
-    description:
-  - topic: Robust regression, ANOVA, Heteroskedasticity
+    description: (Slides) (Boardwork)  Other Sensors (Chemical, Humidity, EM, etc.)  Reading - Beckwith Ch.15
+  - topic: Advanced Statistical Anlysis I
     date: 2026-04-08
-    description:
+    description: (Slides) (Boardwork)  Robust regression, ANOVA, Heteroskedasticity  Reading - None
 ---
 
 - Homework 5: Vision and State Estimation ([PDF](https://ucb-ee106.github.io/106b-sp24site/assets/hw/hw5.pdf))

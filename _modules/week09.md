@@ -1,17 +1,17 @@
 ---
 title: Week 9 - Midterm 1
 days:
-  - topic: Midterm 1 Review
+  - topic: 
     date: 2026-03-16
-    description:
-  - topic: Mideterm 1 - Lab Based Midterm
+    description: Midterm 1 Review
+  - topic: 
     date: 2026-03-18
-    description:
+    description: Mideterm 1 - Lab Based Midterm
 ---
 
-- Discussion 9: SLAM ([Worksheet](https://ucb-ee106.github.io/106b-sp24site/assets/disc/disc9_SLAM.pdf)) ([Boardwork]((https://ucb-ee106.github.io/106b-sp24site/assets/disc/disc9_boardwork.pdf))) ([Video](https://youtu.be/FgmSuPReH9I)) ([Solutions](https://ucb-ee106.github.io/106b-sp24site/assets/disc/disc9_sols.pdf))
-- Project 3: State Estimation [PDF](https://ucb-ee106.github.io/106b-sp24site/assets/proj/proj3.pdf) (due 3/22, submissions accepted until 4/3)
-- Project 4: Grasping [PDF](https://ucb-ee106.github.io/106b-sp24site/assets/proj/proj4.pdf) (due 4/3)
-- Homework 4: Grasping [PDF](https://ucb-ee106.github.io/106b-sp24site/assets/hw/hw4.pdf) (due 3/15)
+- No discussion this week!
+- Midterm 1 will be held in Hearst Field Annex A1 from 2-3 PM. 
+- Midterm 1 Review (Practice Exam) (Notes) (Video) (Practice Solutions)
+- Measurement Project: Continue to collect data.
 
 <a id="Week10"></a>

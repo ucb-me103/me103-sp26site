@@ -7,7 +7,7 @@ days:
 ---
 
 - RRR Week: No Lectures
-- Project Milestone E: Final Presentations Paper. 
+- Project Milestone E: Final Presentations. 
 - We will release a sign-up sheet a week before. Keep an eye out on Ed. 
 
 
