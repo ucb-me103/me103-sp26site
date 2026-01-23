@@ -1,9 +1,9 @@
 ---
 title: Week 12 - Sensors 6 and Advanced Statistics
 days:
-  - topic: Sensors 6 - Other (Chemical, Humidity, EM, etc)
+  - topic: Sensors VI
     date: 2026-04-06
-    description: (Slides) (Boardwork)  Other Sensors (Chemical, Humidity, EM, etc.)  Reading - Beckwith Ch.15
+    description: (Slides) (Boardwork)  Other Sensors (Chemical, Humidity, EM, etc.)  Reading - Beckwith Ch. 15
   - topic: Advanced Statistical Anlysis I
     date: 2026-04-08
     description: (Slides) (Boardwork)  Robust regression, ANOVA, Heteroskedasticity  Reading - None

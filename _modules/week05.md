@@ -1,9 +1,9 @@
 ---
 title: Week 5 - Fourier Transforms and Applications
 days:
-  - topic: No Lecture - Presidents Day
+  - topic:
     date: 2026-02-16
-    description: (Slides) (Boardwork)
+    description:  No Lecture - Presidents Day
   - topic: FFT and applications continued + Bode Plots
     date: 2026-02-18
     description: (Slides) (Boardwork)
