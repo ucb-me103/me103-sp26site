@@ -4,7 +4,7 @@ days:
   - topic:
     date: 2026-02-16
     description:  No Lecture - Presidents Day
-  - topic: FFT and applications continued + Bode Plots
+  - topic: Fourier Applications, Bode Plots, ADC, quantization error
     date: 2026-02-18
     description: (Slides) (Boardwork)
 ---

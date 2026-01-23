@@ -1,12 +1,12 @@
 ---
 title: Week 2 - Probability and Hypothesis Testing
 days:
-  - topic: Probability distributions, hypothesis testing, and uncertainty propagation
+  - topic: Statistics I
     date: 2026-01-26
-    description: (Slides) (Boardwork)
+    description: (Slides) (Boardwork) <br> Probability distributions, hypothesis testing, and uncertainty propagation <br> Readings - Beckwith Ch. 3.1-3.12
   - topic: Measurement Project Intro
     date: 2026-01-28
-    description: (Slides) (Boardwork)
+    description: (Slides) (Boardwork) <br> Project vision, scope, and lab facilities <br> Readings - None
 ---
 
 <a id="Week3"></a>

@@ -6,7 +6,7 @@ days:
     description: (Slides) (Boardwork) <br> Bootstrap, PCA, k-means vs. hierarchical <br> Readings - None
   - topic: Time-series Analysis
     date: 2026-04-15
-    description: (Slides) (Boardwork) <br> Time-series, Filtering, noise vs. signal, Kalman filter <br> Readings - None
+    description: (Slides) (Boardwork) <br> Time-series, Filtering, Kalman filter <br> Readings - None
 ---
 
 - Allen Yang's Guest Lecture on Tuesday is Titled: Bridging Artificial General Intelligence and Artificial General Autonomy via High-Precision Digital Twin Modeling and New Human Interaction Modalities
