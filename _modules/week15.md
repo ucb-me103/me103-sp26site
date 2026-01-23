@@ -1,7 +1,7 @@
 ---
 title: Week 15 - Image-based Measurements
 days:
-  - topic: Image Processing Methods I
+  - topic: Image-based measurements I
     date: 2026-04-27
     description: (Slides) (Boardwork)  DSP Fundamentals, Spatial Filters, Image Reconstruction  Reading - GW Ch. 2,3,5
   - topic: Image-based measurements II
