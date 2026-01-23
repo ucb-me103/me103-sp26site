@@ -1,10 +1,10 @@
 ---
-title: Week 8 - Sensors 1 and 2
+title: Week 8 - Sensors 2 and 3
 days:
-  - topic: Sensors 1 - displacement, velocity, force and strain
+  - topic: Sensors 2 - Inertial
     date: 2026-03-09
     description:
-  - topic: Sensors 2 - inertial (accelerometer, etc)
+  - topic: Sensors 3 - Temperature
     date: 2026-03-11
     description:
 ---

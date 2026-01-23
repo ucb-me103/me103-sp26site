@@ -1,10 +1,10 @@
 ---
-title: Week 3 - Measurement Project and Experimental Design
+title: Week 3 - Experimental Design and Non-Parametric Statistics
 days:
-  - topic: Measurement project: vision and scope. Review of Microkit capabilities and lab facilities.
+  - topic: Design of experiments. Full & fractional factorial designs
     date: 2026-02-02
     description:
-  - topic: Design of experiments. Full and fractional factorial designs.
+  - topic: Non-parametric statistics and tests for normality
     date: 2026-02-04
     description:
 ---

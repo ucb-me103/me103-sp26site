@@ -1,10 +1,10 @@
 ---
-title: Week 11 - Sensors 3 and 4
+title: Week 11 - Sensors 4 and 5
 days:
-  - topic: Sensors 3 - temperature
+  - topic: Sensors 4 - Pressure
     date: 2026-03-30
     description:
-  - topic: Sensors 4 - pressure
+  - topic: Sensors 5 - Fluid Flow
     date: 2026-04-01
     description:
 ---

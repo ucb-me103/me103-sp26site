@@ -1,10 +1,10 @@
 ---
-title: Week 12 - Sensors 5 and 6
+title: Week 12 - Sensors 6 and Advanced Statistics
 days:
-  - topic: Sensors 5 - flow
+  - topic: Sensors 6 - Other (Chemical, Humidity, EM, etc)
     date: 2026-04-06
     description:
-  - topic: Sensors 6 - other (chemical, humidity, electro-magnetic, etc)
+  - topic: Robust regression, ANOVA, Heteroskedasticity
     date: 2026-04-08
     description:
 ---

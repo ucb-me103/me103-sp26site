@@ -61,12 +61,20 @@ A scan of the book has been placed on e-reserve by the libraries, and can be acc
 Several other texts may be of interest to those wishing to go into more depth on any of the topics:
 - Measurement and Instrumentation: Theory and Application, Morris and Langari. Available online via the library website. A good online alternative that covers much of the content of Beckwith, although without detailed coverage of FFTs.
 - Mechanical Measurements, Venkateshan, Available online via the library website. Ditto.
+- Gonzalez and Woods (GW) [Digital Image Processing Textbook](https://www.cl72.org/090imagePLib/books/Gonzales,Woods-Digital.Image.Processing.4th.Edition.pdf). This textbook is a great introduction to the world of image processing and digital signal processing. 
 - Mechanical Engineers’ Handbook, ed. Kutz, Wiley 2017. Particularly chapters 16-18. Available online via the library website. Concise explanations of measurement variability and statistical modeling of data.
 - Statistics for Experimenters, Box, Hunter, and Hunter, Wiley 2005. QA279 .B69 2005. This classic text is by the pioneers of fractional factorial design of experiments.
 - Design and Analysis of Experiments, Montgomery, 2020. Available online via the library website. A well-known text covering experimental design and statistical analysis of data.
 - The Art of Electronics, Horowitz, Wiley 2015. TK7815 .H67 2015. This is a classic book on digital and analog electronic circuits and could be a valuable reference for designing custom experimental sensors.
 - Introduction to Error Analysis, Jack Merrin (self-published), available on Amazon. A concise and crisp overview of how to calculate uncertainty, with clear coverage of significant figures. 
 - Analysis of Messy Data, Volumes I, II and III, Milliken and Johnson, Chapman and Hall/CRC. As the name implies, this series goes into great detail into how to deal with ‘messy’ datasets with uneven sizes, outliers, and so on. 
+
+## LaTeX Resources
+- [Larry's quick video](https://bcourses.berkeley.edu/courses/1552981/files/folder/LaTeX%20Guide?preview=93663583)
+- [LaTeX Cheatsheet](https://ucb-me103.github.io/me103-sp26site/assets/misc/LaTeX_CheatSheet.pdf)
+- [LaTeX Guide (Long)](https://ucb-me103.github.io/me103-sp26site/assets/misc/LaTeX_Guide_Long.pdf)
+- [LaTeX Guide (Short)](https://ucb-me103.github.io/me103-sp26site/assets/misc/LaTeX_Guide_Short.pdf)
+- [LaTeX Quick Refrence](https://ucb-me103.github.io/me103-sp26site/assets/misc/LaTeX_QRH.pdf)
 
 ## Final Project Resources
 - Final Project Guidelines (TBD)

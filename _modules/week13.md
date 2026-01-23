@@ -1,10 +1,10 @@
 ---
-title: Week 13 - Advanced Statistical Analysis
+title: Week 13 - Advanced Statistical Analysis and Time-Series
 days:
-  - topic: Advanced Statistical Analysis - ANOVA + lin. reg
+  - topic: Bootstrap, PCA, k-means vs. hierarchical
     date: 2026-04-13
     description:
-  - topic: Bootstrap, PCA, Clustering
+  - topic: Time-series, Filtering, Kalman Filter
     date: 2026-04-15
     description:
 ---

@@ -1,10 +1,10 @@
 ---
 title: Week 2 - Probability and Hypothesis Testing
 days:
-  - topic: No lecture – Labor Day
+  - topic: Probability distributions, hypothesis testing, and uncertainty propagation
     date: 2026-01-26
     description:
-  - topic: Probability distributions, hypothesis testing, and uncertainty propagation
+  - topic: Measurement Project Intro
     date: 2026-01-28
     description:
 ---

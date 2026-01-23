@@ -1,10 +1,10 @@
 ---
 title: Week 9 - Midterm 1
 days:
-  - topic: MIDTERM 1 REVIEW
+  - topic: Midterm 1 Review
     date: 2026-03-16
     description:
-  - topic: MIDTERM 1 - LAB BASED MIDTERM
+  - topic: Mideterm 1 - Lab Based Midterm
     date: 2026-03-18
     description:
 ---

@@ -1,10 +1,10 @@
 ---
-title: Week 4 - Non-parametric Statistics and Frequency Domain Analysis
+title: Week 4 - Frequency Domain Analysis and Dynamic Responses
 days:
-  - topic: Non-parametric statistics and tests for normality assumptions
+  - topic: Signal Processing; Nyquist criterion; aliasing; Fast Fourier Transform (FFT)
     date: 2026-02-09
     description:
-  - topic: Frequency domain analysis of signals; Nyquist criterion; aliasing; fast Fourier transform (FFT)
+  - topic: Dynamic and Thermal Responses of Measurement Systems
     date: 2026-02-11
     description:
 ---

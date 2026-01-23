@@ -2,16 +2,14 @@
 title: Week 14 - Midterm 2
 
 days:
-  - topic: MIDTERM 2 REVIEW
+  - topic: 
     date: 2026-04-20
-    description:
-  - topic: MIDTERM 2 - HW/CONTENT BASED (7-9 PM)
+    description: Midterm 2 Review
+  - topic: 
     date: 2026-04-22
-    description:
+    description: Midterm 2 - HW/Content Based
 ---
-- Homework 5: Vision and State Estimation ([PDF](https://ucb-ee106.github.io/106b-sp24site/assets/hw/hw5.pdf)) due 4/16
-- Project 5 ([PDF](https://ucb-ee106.github.io/106b-sp24site/assets/proj/proj5.pdf)) due 4/18 with 2 free slip days
-- Final Project Guidelines [PDF](https://ucb-ee106.github.io/106b-sp24site/assets/proj/final_proj.pdf) - Proposals due 4/19
-- Discussion 12: Semester Review ([Worksheet](https://ucb-ee106.github.io/106b-sp24site/assets/disc/disc12_review.pdf)) ([Video](https://youtu.be/wx2-pPLS2Fg)) ([Boardwork](https://ucb-ee106.github.io/106b-sp24site/assets/disc/disc12_boardwork.pdf))
+- No discussions for the rest of semester!
+- Midterm 2 will be held in [TBD] from 7-9 PM. More details to come. 
 
 <a id="Week15"></a>

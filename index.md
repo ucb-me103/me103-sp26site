@@ -37,7 +37,7 @@ description: >-
 
 # Course Calendar
 
-#### All lecture videos can be found on bCourses.
+#### All lecture videos can be found on [bCourses](https://bcourses.berkeley.edu/courses/1552981).
 
 {% for module in site.modules %}
 {{ module }}

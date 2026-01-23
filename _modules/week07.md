@@ -1,10 +1,10 @@
 ---
-title: Week 7 - DC Motor Lab and Presentations
+title: Week 7 - Presentations and Sensors
 days:
-  - topic: DC Motor Lab Intro
+  - topic: Oral presentation of experimental results
     date: 2026-03-02
     description:
-  - topic: Oral presentation of experimental results.
+  - topic: Sensors 1 - Displacement, Velocity, Force, and Strain
     date: 2026-03-04
     description:
 ---

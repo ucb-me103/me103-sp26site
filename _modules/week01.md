@@ -4,7 +4,7 @@ days:
   - topic: No lecture
     date: 2026-01-19
     description: 
-  - topic: Introduction to ME103. ME 100 prerequisite review + significant figures
+  - topic: Principles of Measurements, Variability, and Types of Errors
     date: 2026-01-21
     description:
 ---

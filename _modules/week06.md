@@ -1,10 +1,10 @@
 ---
-title: Week 6 - FFT, Bode Plots, and Data Presentation
+title: Week 6 - Data Presentation and Controls
 days:
-  - topic: FFT and applications continued + Bode Plots
+  - topic: Written and graphical presentation of results
     date: 2026-02-23
     description:
-  - topic: Written and graphical presentation of results. Fitting lines and curves to data.
+  - topic: DC Motor Lab Intro + Root Locus!
     date: 2026-02-25
     description:
 ---

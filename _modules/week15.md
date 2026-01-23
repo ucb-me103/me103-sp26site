@@ -1,14 +1,19 @@
 ---
 title: Week 15 - Image-based Measurements
 days:
-  - topic: Image-based measurements - image processing methods + k-means
+  - topic: Image Processing Methods I
     date: 2026-04-27
-    description:
-  - topic: Image-based measurements - continued.
+    description: (Slides) (Boardwork)
+    DSP Fundamentals, Spatial Filters, Image Reconstruction
+    Reading - GW 2,3,5
+  - topic: Image-based measurements II
     date: 2026-04-29
-    description:
+    description: (Slides) (Boardwork)
+    Image compression, Feature Extraction, Classification (ML)
+    Reading - GW 8, 11, 12
 ---
 
-- Continue final projects
+- [Homework 6: Image Based Measurements](https://ucb-me103.github.io/me103-sp26site/)
+- Measurement project: additional data gathering and analysis in preperation for Milestone E and F. 
 
 <a id="Week16"></a>
