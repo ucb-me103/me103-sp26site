@@ -171,15 +171,19 @@ Students should never screenshare their code or answers directly on public platf
 
 ## AI Guidelines
 
-As we navigate the new landscape with AI and LLMs, we want to be transparent about and provide guidelines for acceptable and unacceptable uses of AI in the course. We provide these guidelines with the note that we warn against an overreliance on these kinds of tools that might preclude you from developing a strong grasp on/intuition about the course material. We strongly remind you that these tools are meant to assist your learning process, not to replace your learning. 
+As we navigate the new landscape with AI and LLMs, we want to be transparent about and provide guidelines for acceptable and unacceptable uses of AI in the course. We provide these guidelines with the note that we warn against an overreliance on these kinds of tools that might preclude you from developing a strong grasp on/intuition about the course material. We strongly remind you that these tools are meant to assist your learning process, not to replace your learning.
 
-**Labs and Project**: We permit the use of tools like Github Copilot to assist you in writing code for labs and projects, the use of LLMs to help write parts of reports is also fine as long as you cite the use of LLMs including the model, i.e. Haiku 4.5 or Gemini 3 Pro. We encourage those of you who might be new to MATLAB to avoid using Copilot in the first labs to get familiar with the syntax before relying on Copilot to help you with specific-lines of code. Please note that you may still be asked to write snippets of code for the midterms, and your understanding of code will also be evaluated on exams. We reserve the right to give **no credit** for dishonest use of AI. 
+**Guidelines**: The grading staff does not allow the use of AI for writing any part of your Lab or Project reports or Homework. We do not permit using AI to directly answer questions for any assignment. This means that copy-pasting full questions into AI for an answer is explicitly disallowed. If you use concepts not related to class material to answer your questions, which we suspect were synthesized by AI, we reserve the right to call you in to orally explain your answer. Furthermore, using AI to write your code or LaTeX is explicitly disallowed (not a bluff—several students have failed the course in the past because of this). Remember, you must submit your LaTeX .zip files with every assignment and include all code in the appendices (it is quite easy to tell when code is the output of an LLM).
 
-**Homeworks**: We do not permit using AI to directly answer homework questions. However, you may find it beneficial to “bounce ideas” or ask auxillary questions to help frame a problem. For example, you might ask ChatGPT when you use active components for a filter or what benefits there are to the spectral analysis. We encourage you to utilize the resources we provide to you (eg: lecture, office hours, discussion sections) to further clarify any questions you have or to verify the information you receive from an AI agent. We reserve the right to give **no credit** for dishonest use of AI. 
+However, you may find it beneficial to “bounce ideas” or ask auxiliary questions to help frame a problem. For example, you might ask ChatGPT when you use active components for a filter or what benefits there are to spectral analysis, as you would with a traditional search engine. Still, you must not copy-paste an answer from AI into your assignment. It is easy to tell when this is done, and doing so constitutes academic dishonesty.
 
-Midterms: No use of AI is permitted for midterm exams. 
+We encourage you to utilize the resources we provide to you (e.g., lectures, office hours, discussion sections) to further clarify any questions you have or to verify the information you receive from an AI agent. We reserve the right to give no credit for dishonest use of AI.
 
-We again urge you to use these tools to assist your learning in whatever ways work for you. Leaning too heavily on these kinds of tools can detract from your learning. Weak grasp of the material will be represented in project, lab, homework, and midterm scores, which are the primary source of spread in grades for the course. 
+Leaning too heavily on these kinds of tools can detract from your learning. A weak grasp of the material will be reflected in project, lab, homework, and midterm scores, which are the primary source of spread in grades for the course.
+
+**If you received a score of 0 on an ENTIRE assignment or have questions or concerns about AI usage, grading, or academic integrity, please reach out directly to dalilashong@berkeley.edu.**
+
+In the end, it’s just not worth it—just come to office hours instead, we’re here to help!
 
 ## Advice 
 
