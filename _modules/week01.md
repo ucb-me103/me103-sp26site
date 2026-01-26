@@ -1,9 +1,9 @@
 ---
 title: Week 1 - Introduction to ME103
 days:
-  - topic: No lecture
+  - topic: 
     date: 2026-01-19
-    description: 
+    description: No lecture
   - topic: Introduction to Measurements
     date: 2026-01-21
     description: ([Slides](./assets/lec/me103_lec1.pdf)) (Boardwork) <br> Principles of Measurements, Variability, and Types of Errors  <br> Readings - Beckwith 1, 2, 3.1-3.3
