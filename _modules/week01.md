@@ -6,7 +6,7 @@ days:
     description: No lecture
   - topic: Introduction to Measurements
     date: 2026-01-21
-    description: [Slides]({{ site.baseurl }}assets/lec/me103_lec1.pdf) (Boardwork)  Principles of Measurements, Variability, and Types of Errors  Readings - Beckwith 1, 2, 3.1-3.3
+    description: [Slides](https://ucb-me103.github.io/me103-sp26site/assets/lec/me103_lec1.pdf) (Boardwork)  Principles of Measurements, Variability, and Types of Errors  Readings - Beckwith 1, 2, 3.1-3.3
 ---
 - Discussion 1: ME100 Electronics Review ([Slides](https://ucb-me103.github.io/me103-sp26site/assets/disc/me103_disc1_slides.pdf)) ([Video]()) ([Solutions]())
 - [Homework 0](https://ucb-me103.github.io/me103-sp26site/assets/hw/ME103_HW_0_BLANK.pdf): Analog Circuits and Significant Digits - due 1/26
