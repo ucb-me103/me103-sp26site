@@ -8,7 +8,7 @@ days:
     date: 2026-01-28
     description: (Slides) (Boardwork) <br> Project vision, scope, and lab facilities <br> Readings - None
 ---
-- Lab 0: Data Collection and Uncertainty ([Slides](https://ucb-me103.github.io/me103-sp26site/assets/labs/SP26_ME103_Lab_0.pdf)) ([Solutions]())
+- Lab 0: Data Collection and Uncertainty ([Handout](https://ucb-me103.github.io/me103-sp26site/assets/labs/SP26_ME103_Lab_0.pdf)) ([Solutions]())
 - Homework 1: Statistics and Error Propogation 
 
 <a id="Week3"></a>
