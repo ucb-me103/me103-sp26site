@@ -9,7 +9,7 @@ days:
     description: (Slides) (Boardwork) <br> Project vision, scope, and lab facilities <br> Readings - None
 ---
 - Lab 0: Data Collection and Uncertainty ([Handout](https://ucb-me103.github.io/me103-sp26site/assets/labs/SP26_ME103_Lab_0.pdf)) ([Solutions]())
-- Homework 1: Statistics and Error Propogation 
+- [Homework 1](https://ucb-me103.github.io/me103-sp26site/assets/hw/ME103_HW_1_BLANK.pdf): Statistics, Probability, Error Propagation - due 2/9
 
 <a id="Week3"></a>
 
