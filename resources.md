@@ -19,6 +19,9 @@ description: >-
 ## General
 - <a href="https://docs.google.com/document/d/16PCs4Sbj7_umLd0PeCSyZXmgHYstW9cnrNjbURezPro/edit?usp=sharing">Self-care and wellness resources</a>
 
+## Homework
+- The [formula sheet](https://ucb-me103.github.io/me103-sp26site/assets/misc/ME103_Formula_Sheet.pdf) for the class that Larry made is here. It will be helpful for midterms, homeworks, and labs! 
+
 ## Lab Resources
 - [Lab Equipment and Software Crash Course](https://ucb-me103.github.io/me103-sp26site/assets/labs/ME103_Equipment_and_Software_Crash_Course.pdf)
 - [RIGOL DC Power Supply Datasheet](https://ucb-me103.github.io/me103-sp26site/assets/labs/GW_Instek_GPE-X323_E.pdf)
