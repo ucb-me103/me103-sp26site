@@ -1,8 +1,15 @@
 <head>
-  <title>ME103</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <meta name="description" content="UC Berkeley ME103 course website">
+  <meta name="google-site-verification" content="-c1zQFVynZBAM95noZXZV_IjGRa-0hCbL1htD6OSBYw" />
 
-  <meta property="og:title" content="ME103">
-  <meta property="og:description" content="Course calendar, lectures, and resources for ME103">
+  <title>{{ site.title }}</title>
+
+  <meta name="description" content="{{ page.description | default: site.description }}">
+
+  <meta property="og:title" content="{{ site.title }}">
+  <meta property="og:description" content="{{ page.description | default: site.description }}">
+
+  <link rel="icon" type="image/png" href="{{ site.baseurl }}favicon.png">
 </head>
