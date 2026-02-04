@@ -1,5 +1,5 @@
 ---
-title: Week 3 -  Ping Pong Ball Calibration!
+title: Week 3 -  Experimental Design and Non-Parametric Statistics!
 ---
 
 This week in lab, we will be touring some Hesse equipments to see what you can use and how you can use the equipments for your final project! 

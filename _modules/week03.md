@@ -8,5 +8,6 @@ days:
     date: 2026-02-04
     description: (Slides) (Boardwork) <br> Non-parametric statistics and tests for normality <br> Readings - None. 
 ---
+- Lab 1: Ping Pong Calibration ([Handout](https://ucb-me103.github.io/me103-sp26site/assets\labs\lab1_pingpong\SP26_ME103_Lab_1.pdf)) ([Solutions]())
 
 <a id="Week4"></a>
