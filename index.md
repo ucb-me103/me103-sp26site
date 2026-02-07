@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Home
+title: ME 103 Spring 2026
 nav_order: 0
 description: >-
     Course website for MEC ENG 103 Spring 2026
@@ -17,7 +17,7 @@ description: >-
 
   <div class="instructor-info">
     <p class="name"><strong>George Anwar</strong></p>
-    <p class="email">ganwar@</p>
+    <p class="email">ganwar@berkeley.edu</p>
     <p class="role">Professor</p>
     <p class="pronouns">he/him</p>
   </div>
@@ -37,7 +37,7 @@ description: >-
 
 # Course Calendar
 
-#### All lecture videos can be found on [bCourses](https://bcourses.berkeley.edu/courses/1552981).
+#### All lecture videos can be found on [bCourses](https://bcourses.berkeley.edu/courses/1552981){:target="_blank" rel="noopener noreferrer"}.
 
 {% for module in site.modules %}
 {{ module }}
