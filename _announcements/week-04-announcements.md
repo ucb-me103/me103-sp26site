@@ -2,7 +2,7 @@
 title: Week 4 -  Frequency Domain Analysis and Dynamic Responses!
 ---
 
-This week in lab, we will be touring some Hesse equipments to see what you can use and how you can use the equipments for your final project! 
+This week in lab, we will be doing lab 2 on filters!
 
 **This week:**
 - The Hesse shop staff requires **EVERYONE** to sign the [safety forms](https://static.us.edusercontent.com/files/tHKlhRf5W0RtZ7WKVhgJgIk7){:target="_blank" rel="noopener noreferrer"} on [Gradescope](https://www.gradescope.com/courses/1233514/assignments/7598964){:target="_blank" rel="noopener noreferrer"}!
