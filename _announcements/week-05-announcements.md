@@ -1,5 +1,5 @@
 ---
-title: Week 5 -  Experimental Design and Non-Parametric Statistics!
+title: Week 5 - Fourier Transforms and Applications!
 ---
 
 ## This Week:
