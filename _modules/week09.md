@@ -1,17 +1,13 @@
 ---
-title: Week 9 - Midterm 1
+title: Week 9 - Sensors 4 and 5
 days:
-  - topic: 
-    date: 2026-03-16
-    description: Midterm 1 Review
-  - topic: 
-    date: 2026-03-18
-    description: Mideterm 1 - Lab Based Midterm
+  - topic: Sensors IV
+    date: 2026-03-30
+    description: (Slides) (Boardwork) <br> Pressure Sensors <br> Readings - Beckwith Ch. 14
+  - topic: Sensors V
+    date: 2026-03-20
+    description: (Slides) (Boardwork) <br> Midterm I Review <br> Fluid Flow Sensors <br> Readings - Beckwith Ch. 15 
 ---
 
-- No discussion this week!
-- Midterm 1 will be held in Hearst Field Annex A1 from 2-3 PM. 
-- Midterm 1 Review (Practice Exam) (Notes) (Video) (Practice Solutions)
-- Measurement Project: Continue to collect data.
 
 <a id="Week10"></a>
