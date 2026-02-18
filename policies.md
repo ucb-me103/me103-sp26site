@@ -21,23 +21,25 @@ description: >-
 
 ## Overview
 
-This course will be taught in a seminar style, with lectures, 7 homeworks, 6 labs, 2 midterms, and a final project. **All submissions will go through Gradescope**. There is also an Ed page for students to discuss homeworks and projects. 
+This course will be taught in a seminar style, with lectures, 7 homeworks, 5 labs, 2 midterms, and a final project. **All submissions will go through Gradescope**. There is also an Ed page for students to discuss homeworks and projects. 
 
 Each week, there are 3 hours of lecture, 1 hour of discussion, and 3 hours of organized lab sections. All of these and office hours will be hosted in-person. You are expected to work on projects during your own time. Lecture and discussion sections will be recorded and posted.
 
 ## Lecture
+
 Lectures will be on **Mondays and Wednesdays 2-3pm in Hearst Field Annex A1**. Recordings of all lectures will be posted on bCourses and you can access them by going to “Modules” in bCourses, and then clicking on the page associated with the specific lecture that you want to view. They will also be accessible via the “Media Gallery” in bCourses. 
 
 ## Discussions
+
 There will be one offered discussion section on **Friday from 2:00pm to 3:00pm in Hearst Field Annex A1**. It will have a review of important topics and go over practice problems related to the material to supplement lecture content. Attendance is encouraged but optional for discussion. The TA giving the discussion may vary from week to week according to the subject matter. The discussions each week will be recorded and posted on bCourses.
 
 ## Homeworks
 
-Homeworks will be collected and graded using the Gradescope system. Create an account on gradescope.com with your Berkeley email account and SID, and you can add this class using this code: **G673ER**. 
+Homeworks will be collected and graded using the Gradescope system. Create an account on gradescope.com with your Berkeley email account and SID, and you can add this class using this code: **G673ER**.
 
 There will be **seven** homeworks, done on Gradescope and due on Monday nights. We will post the homeworks at least one week before they are due, and we aim to provide graded HW within two weeks of the deadline. Some homework problems will be graded by completion (to encourage self-study and development of understanding) and some will be graded by correctness. **All of Homework 4 will be based on completion.**
 
-**Homeworks must be completed in LaTeX!** This is so that you can practice writing professionally typeset documents in your future careers. It is the crown-jewel of the STEM world. We recommend that you use Overleaf or edit it locally through VS Code. 
+**Homeworks must be completed in LaTeX!** This is so that you can practice writing professionally typeset documents in your future careers. It is the crown-jewel of the STEM world. We recommend that you use Overleaf or edit it locally through VS Code.
 
 Collaboration on homework sets is encouraged, but all students must write up their own solution set. Additionally, every student is accountable for the solutions they submit and may be asked to discuss them with a TA or instructor. **Please list all collaborators at the top of each submitted homework set.**
 
@@ -51,14 +53,23 @@ Collaboration on homework sets is encouraged, but all students must write up the
 |Homework 6: Image Processing | 4/27 |
 
 ## Lab Sections
-Lab sections are not offered asynchronously. At the beginning of lab section, the TA/tutor will go over any announcements and a general overview of the lab. There will be 6 labs in this course. 
+
+Lab sections are not offered asynchronously. At the beginning of lab section, the TA/tutor will go over any announcements and a general overview of the lab. There will be 5 labs in this course. 
 
 - Labs 0 and 1 are introductory and are designed to get you familiar with the equipment in the lab and comfortable with thinking about measurement errors. These two labs will have light lab reports associated with them and will cover AC measurements, signal processing, and filters. 
 - Lab 2 will be more in-depth and will focus on calibration of instruments and resulting calibration curves. You will also have a larger lab report to hand in. 
 - Lab 3 will be more in-depth and will integrate your learning about dynamic system responses, displacement and acceleration sensor technology, and data interpretation. You will have a large lab report to discuss your results, record a first cut of that presentation, receive feedback from course staff, and then give a live version of your revised presentation, with Q&A. 
-- Lab 4 and 5 will be more in-depth and will deal with heat transfer via the thermal rocket apparatus and DC motor control and Nyquist Criterion. Both will have a large lab report to hand in.  
+- Lab 4 will be more in-depth and will deal with heat transfer via the thermal rocket apparatus and DC motor control and Nyquist Criterion. This will have a large lab report to hand in.  
 
 Please remember to bring your personal safety glasses to every lab session and microkit. **Labs must be completed in LaTeX! We will provide a template**. This is so that you can practice writing professionally typeset documents in your future careers. It is the crown-jewel of the STEM world. We recommend that you use Overleaf o-r edit it locally through VS Code. 
+
+## Midterms
+
+There will be 2 midterms covering course material. Students are allowed one, front and back, 8.5x11" cheat sheet per exam
+
+Midterm I will be held during lab sessions the week of **March 30th - April 3rd**. This exam will be hands on with your lab groups.
+
+Midterm II will be on **April 22nd, 7-9 PM in Hearst Field Annex A1**
 
 ## Final Project
 
@@ -103,7 +114,7 @@ The instructors will hold weekly office hours to discuss lecture content, homewo
 - Midterm 2 Lecture/Homework Based: 17.5%
 
 ### Labs
-20%, equally weighted between 6 labs
+20%, equally weighted between 5 labs
 
 ### Measurement project
 30%, of which:
