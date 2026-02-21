@@ -48,9 +48,8 @@ Collaboration on homework sets is encouraged, but all students must write up the
 |Homework 1: Statistics and Hypothesis Testing | 2/9 |
 |Homework 2: Non-Parametric Statistics and Coding | 2/23 |
 |Homework 3: Frequency Analysis and Bode Plots | 3/9 |
-|Homework 4: Designing and Anlyzing Sensors | 3/30 |
-|Homework 5: Advanced Statistical Anlysis | 4/15 |
-|Homework 6: Image Processing | 4/27 |
+|Homework 4: Designing and Anlyzing Sensors | 4/3 |
+|Homework 5: Image Processing | 4/13 |
 
 ## Lab Sections
 
@@ -59,7 +58,7 @@ Lab sections are not offered asynchronously. At the beginning of lab section, th
 - Labs 0 and 1 are introductory and are designed to get you familiar with the equipment in the lab and comfortable with thinking about measurement errors. These two labs will have light lab reports associated with them and will cover AC measurements, signal processing, and filters. 
 - Lab 2 will be more in-depth and will focus on calibration of instruments and resulting calibration curves. You will also have a larger lab report to hand in. 
 - Lab 3 will be more in-depth and will integrate your learning about dynamic system responses, displacement and acceleration sensor technology, and data interpretation. You will have a large lab report to discuss your results, record a first cut of that presentation, receive feedback from course staff, and then give a live version of your revised presentation, with Q&A. 
-- Lab 4 will be more in-depth and will deal with heat transfer via the thermal rocket apparatus and DC motor control and Nyquist Criterion. This will have a large lab report to hand in.  
+- Lab 4 will be a Design Project based lab made to assist you with initial data collection and processing. It will cover statistical methods that may be helpful for analyzing your project data, and help you complete Milestone C
 
 Please remember to bring your personal safety glasses to every lab session and microkit. **Labs must be completed in LaTeX! We will provide a template**. This is so that you can practice writing professionally typeset documents in your future careers. It is the crown-jewel of the STEM world. We recommend that you use Overleaf o-r edit it locally through VS Code. 
 
@@ -79,9 +78,9 @@ You will work in teams of four to six and have access to a wide range of instrum
 
 |**Milestone** | **Due Date @11:59PM** |
 |A. One-page Project Proposal | 2/20 |
-|B. Detailed Exprimental Plan | 3/13 |
-|C. Figure Plan & Preliminary Data | 4/10 |
-|D. First Draft of Paper | 4/24 |
+|B. Detailed Exprimental Plan | 3/06 |
+|C. Figure Plan & Preliminary Data | 3/20 |
+|D. First Draft of Paper | 4/6 |
 |E. Final Presentation | RRR Week |
 |F. Final Version of Paper | 5/6 |
 
