@@ -8,5 +8,5 @@ days:
     date: 2026-03-04
     description: (Slides) (Boardwork) <br> Displacement, Velocity, Force, and Strain Sensors <br> Readings - Beckwith Ch. 8, 6.11, 11.13, 13
 ---
-
+- Milestone B due (3/6)
 <a id="Week8"></a>
