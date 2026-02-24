@@ -10,7 +10,7 @@ days:
 ---
 - Pre-lab 3: ([Handout](){:target="_blank" rel="noopener noreferrer"}) ([Solutions]())
 - Discussion 4: Hypothesis Testing & Non Parametric Testing ([Slides](assets/disc/me103_disc4_slides.pdf){:target="_blank" rel="noopener noreferrer"})
-- [Homework 2](https://static.us.edusercontent.com/files/agtpGf26Ob2vS5E1uronWAMg){:target="_blank" rel="noopener noreferrer"}: Statistics, Probability, Error Propagation - due 2/23
+- [Homework 2](https://static.us.edusercontent.com/files/agtpGf26Ob2vS5E1uronWAMg){:target="_blank" rel="noopener noreferrer"}: Statistics, Probability, Error Propagation ([Solutions](assets/hw/SP26_ME103_HW_2_SOLNS.pdf){:target="_blank" rel="noopener noreferrer"})
 
 
 <a id="Week6"></a>

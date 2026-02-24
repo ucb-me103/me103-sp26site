@@ -8,7 +8,7 @@ days:
     date: 2026-02-25
     description: (Slides) (Boardwork) <br>  DC Motor Lab Intro + Root Locus!  <br> Readings - None
 ---
-- Lab 3: Vibrating Beam Sensor Calibration ([Handout](){:target="_blank" rel="noopener noreferrer"}) ([Solutions](){:target="_blank" rel="noopener noreferrer"})
+- Lab 3: Vibrating Beam Sensor Calibration ([Handout](assets/labs/SP26_ME103_Lab_3.pdf){:target="_blank" rel="noopener noreferrer"}) ([Solutions](){:target="_blank" rel="noopener noreferrer"})
 - Discussion 5: Hypothesis Testing & Non Parametric Testing ([Slides](assets/disc/disc5_blank.pdf){:target="_blank" rel="noopener noreferrer"})([Solutions](assets/disc/disc5_solns.pdf){:target="_blank" rel="noopener noreferrer"})
 - [Homework 3](https://static.us.edusercontent.com/files/0poqcJTdgrfPWEh3L6akCTTE){:target="_blank" rel="noopener noreferrer"}: Frequency Analysis and Bode Plots - due 3/9
 
