@@ -6,7 +6,7 @@ days:
     description:  No Lecture - Presidents Day
   - topic: Signal Processing II
     date: 2026-02-18
-    description: (Slides) (Boardwork) <br> Fourier Applications, Bode Plots, ADC, quantization error <br> Readings - Beckwith Ch. 4
+    description: ([Slides](assets/lec/me103_lec8.pdf){:target="_blank" rel="noopener noreferrer"}) (Boardwork) <br> Fourier Applications, Bode Plots, ADC, quantization error <br> Readings - Beckwith Ch. 4
 ---
 - Pre-lab 3: ([Handout](){:target="_blank" rel="noopener noreferrer"}) ([Solutions]())
 - Discussion 4: Hypothesis Testing & Non Parametric Testing ([Slides](assets/disc/me103_disc4_slides.pdf){:target="_blank" rel="noopener noreferrer"})
