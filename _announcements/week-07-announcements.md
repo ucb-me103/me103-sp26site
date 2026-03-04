@@ -1,8 +1,8 @@
 ---
-title: Week 6 - Data Presentation!
+title: Week 07
 ---
 
-Welcome to March! There will be **no discussions* this week! Larry will post a document instead of holding a discussion. 
+Welcome to March! There will be **no discussions** this week! Larry will post a document instead of holding a discussion. 
 
 ### **This Week**:
 
