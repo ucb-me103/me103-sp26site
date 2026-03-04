@@ -1,5 +1,5 @@
 ---
-title: Week 07
+title: Week 07 - Presentations and Sensors!
 ---
 
 Welcome to March! There will be **no discussions** this week! Larry will post a document instead of holding a discussion. 
