@@ -1,5 +1,5 @@
 ---
-title: Week 07 - Presentations and Sensors!
+title: Week 08
 ---
 
 
@@ -13,7 +13,7 @@ title: Week 07 - Presentations and Sensors!
 
 **On Homeworks:**
 
-- [HW 3](assets/hw/ME103_HW3.pdf){:target="_blank" rel="noopener noreferrer"} was due Monday (3/09), 11:59 PM. 
+- [HW 3](assets/hw/ME103_HW3.pdf){:target="_blank" rel="noopener noreferrer"} was due Monday (3/16), 11:59 PM. 
 
 **On Midterms:**
 
