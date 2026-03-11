@@ -10,6 +10,6 @@ days:
 ---
 - Lab 3: Vibrating Beam Sensor Calibration ([Handout](assets/labs/SP26_ME103_Lab_3.pdf){:target="_blank" rel="noopener noreferrer"}) ([Solutions](){:target="_blank" rel="noopener noreferrer"})
 - Discussion 5: Hypothesis Testing & Non Parametric Testing ([Slides](assets/disc/disc5_blank.pdf){:target="_blank" rel="noopener noreferrer"})([Solutions](assets/disc/disc5_solns.pdf){:target="_blank" rel="noopener noreferrer"})
-- [Homework 3](https://static.us.edusercontent.com/files/0poqcJTdgrfPWEh3L6akCTTE){:target="_blank" rel="noopener noreferrer"}: Frequency Analysis and Bode Plots - due 3/9 ([Solutions](assets/hw/SP26_ME103_HW_3_SOLNS.pdf){:target="_blank" rel="noopener noreferrer"})
+- [Homework 3](https://static.us.edusercontent.com/files/0poqcJTdgrfPWEh3L6akCTTE){:target="_blank" rel="noopener noreferrer"}: Frequency Analysis and Bode Plots - due 3/9 ([Solutions](){:target="_blank" rel="noopener noreferrer"})
 
 <a id="Week7"></a>
