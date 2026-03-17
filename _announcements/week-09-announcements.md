@@ -13,8 +13,8 @@ title: Week 08 - Calibration and Testing!
 
 **On Homeworks:**
 
-- [HW 3](assets/hw/ME103_HW3.pdf){:target="_blank" rel="noopener noreferrer"} is now due Wednesday, March 18 at 11:59PM! 
-- [HW 4](assets/hw/SP26_ME103_HW_4_BLANK.pdf){:target="_blank" rel="noopener noreferrer"} has been released and will be due Monday, March 30th at 11:59 PM
+- [HW 3](assets/hw/ME103_HW3.pdf){:target="_blank" rel="noopener noreferrer"} had another extension and is now due Wednesday, March 18 at 11:59PM! 
+- [HW 4](assets/hw/SP26_ME103_HW_4_BLANK.pdf){:target="_blank" rel="noopener noreferrer"} has been released and is due Monday, March 30th at 11:59 PM
 
 **On Midterms:**
 
